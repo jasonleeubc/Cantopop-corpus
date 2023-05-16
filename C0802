@@ -12,12 +12,11 @@
 *C:	*	*
 *M4/4	*	*
 *MM63	*	*
-=	=	=
 *>verse	*>verse	*>verse
 {8G	忘	mong4
 8cL	掉	diu6
 8dJ	種	zung3
-=	=	=
+=1	=1	=1
 16dL	過	gwo3
 8e	的	dik7
 16eJ}	花	faa1
@@ -30,7 +29,7 @@
 16dL]	.	.
 8cJ}	發	faat8
 16r	.	.
-=	=	=
+=2	=2	=2
 {8dL	放	fong3
 16d	棄	hei3
 [16dJ	理	lei5
@@ -40,7 +39,7 @@
 8A]}	.	.
 8r	.	.
 4r	.	.
-=	=	=
+=3	=3	=3
 {8eL	別	bit9
 16f	再	zoi3
 [16fJ	看	hon3
@@ -53,7 +52,7 @@
 16eL]	.	.
 8d}	帖	tip2
 {16cJ	你	nei5
-=	=	=
+=4	=4	=4
 8cL	正	zing3
 16A	在	zoi6
 [16cJ	要	jiu3
@@ -63,7 +62,7 @@
 8d]}	.	.
 8r	.	.
 4r	.	.
-=	=	=
+=5	=5	=5
 {8gL	築	zuk7
 16g	得	dak7
 [16gJ	起	hei2
@@ -76,7 +75,7 @@
 16fL]	.	.
 8eJ}	受	sau6
 16r	.	.
-=	=	=
+=6	=6	=6
 {8gL	都	dou1
 16f	有	jau5
 [16eJ	日	jat9
@@ -88,7 +87,7 @@
 8r	.	.
 {16dL	其	kei4
 16eJ	實	sat9
-=	=	=
+=7	=7	=7
 8eL	沒	mut9
 16f	有	jau5
 [16fJ	一	jat7
@@ -101,7 +100,7 @@
 16AL)P	.	.
 8AJ}	樂	lok9
 16r	.	.
-=	=	=
+=8	=8	=8
 {8cL	永	wing5
 16c	遠	jyun5
 [16cJ	也	jaa5
@@ -114,7 +113,7 @@
 *>verse	*>verse	*>verse
 {16cL	就	zau6
 16dJ	似	ci5
-=	=	=
+=9	=9	=9
 8dL	這	ze5
 16e	一	jat7
 16eJ}	區	keoi1
@@ -127,7 +126,7 @@
 16dL]	.	.
 8cJ}	上	soeng5
 16r	.	.
-=	=	=
+=10	=10	=10
 {8dL	美	mei5
 16d	滿	mun5
 [16dJ	甲	kaap8
@@ -138,7 +137,7 @@
 16GP	.	.
 8FJ)P}	.	.
 4r	.	.
-=	=	=
+=11	=11	=11
 {8eL	但	daan6
 16f	霎	saap8
 [16fJ	眼	ngaan5
@@ -151,7 +150,7 @@
 16eL]	.	.
 8d}	位	wai2
 {16cJ	快	faai3
-=	=	=
+=12	=12	=12
 8cL	要	jiu3
 16A	住	zyu6
 [16cJ	滿	mun5
@@ -161,7 +160,7 @@
 8d]}	.	.
 8r	.	.
 4r	.	.
-=	=	=
+=13	=13	=13
 {8gL	好	hou2
 16g	景	ging2
 [16gJ	不	bat7
@@ -174,7 +173,7 @@
 16d#L]	.	.
 8eJ}	在	zoi6
 16r	.	.
-=	=	=
+=14	=14	=14
 {8aL	天	tin1
 16a	梯	tai1
 [16aJ	不	bat7
@@ -187,7 +186,7 @@
 16eL]	.	.
 8dJ}	爬	paa4
 16r	.	.
-=	=	=
+=15	=15	=15
 {8dL	愛	oi3
 16e	的	dik7
 [16GJ	人	jan4
@@ -202,7 +201,7 @@
 16dL]	.	.
 8c	世	sai3
 [16dJ	嗎	maa1
-=	=	=
+=16	=16	=16
 8d]}	.	.
 8r	.	.
 8r	.	.
@@ -215,7 +214,7 @@
 (16B	害	hoi6
 16c)P	.	.
 [16cJ	怕	paa3
-=	=	=
+=17	=17	=17
 4c]}	.	.
 4r	.	.
 8r	.	.
@@ -223,7 +222,7 @@
 {8c	忘	mong4
 8eL	掉	diu6
 8gJ	愛	oi3
-=	=	=
+=18	=18	=18
 16gL	過	gwo3
 8a	的	dik7
 [16aJ	他	taa1
@@ -238,7 +237,7 @@
 16g	箔	bok8
 16g	印	jan3
 16eJ	着	zoek9
-=	=	=
+=19	=19	=19
 16.gL	那	naa5
 16.a	位	wai2
 [16aJ	他	taa1
@@ -253,7 +252,7 @@
 16e	道	dou6
 16d#	牆	coeng4
 16eJ	及	kap9
-=	=	=
+=20	=20	=20
 8gL	一	jat7
 16f	切	cai3
 [16fJ	美	mei5
@@ -267,7 +266,7 @@
 {16c	明	ming4
 16d	日	jat9
 16cJ	同	tung4
-=	=	=
+=21	=21	=21
 4e	步	bou6
 (8gL	拆	caak8
 8eJ)	.	.
@@ -275,7 +274,7 @@
 {8cJ	忘	mong4
 8eL	掉	diu6
 8gJ	有	jau5
-=	=	=
+=22	=22	=22
 16gL	過	gwo3
 8a	的	dik7
 [16aJ	家	gaa1
@@ -290,7 +289,7 @@
 16a	櫃	gwai6
 16a	及	kap9
 16bJ	兩	loeng5
-=	=	=
+=23	=23	=23
 16.aL	份	fan6
 16.g	紅	hung4
 [16gJ	茶	caa4
@@ -305,7 +304,7 @@
 16g	過	gwo3
 16g	借	ze3
 16aJ	出	ceot7
-=	=	=
+=24	=24	=24
 (16gL	到	dou3
 16f)P	.	.
 16f	期	kei4
@@ -316,7 +315,7 @@
 4cc]}	.	.
 8r	.	.
 {8g	等	dang2
-=	=	=
+=25	=25	=25
 8gL	不	bat7
 16f	到	dou3
 [16eJ	下	haa6
@@ -327,23 +326,23 @@
 8r	.	.
 {8BL	是	si6
 [8cJ	嗎	maa3
-=	=	=
+=26	=26	=26
 4c]}	.	.
 *>interlude	*>interlude	*>interlude
 4r	.	.
 2r	.	.
-=	=	=
+=27	=27	=27
 1r	.	.
-=	=	=
+=28	=28	=28
 1r	.	.
-=	=	=
+=29	=29	=29
 2r	.	.
 8r	.	.
 *>verse	*>verse	*>verse
 {8G	忘	mong4
 8cL	掉	diu6
 8dJ	砌	cai3
-=	=	=
+=30	=30	=30
 16dL	過	gwo3
 8e	的	dik7
 16eJ}	沙	saa1
@@ -356,7 +355,7 @@
 16dL]	.	.
 8cJ}	壘	leoi5
 16r	.	.
-=	=	=
+=31	=31	=31
 {8dL	剎	saat8
 16d	那	naa5
 [16dJ	已	ji5
@@ -367,7 +366,7 @@
 16GP	.	.
 8FJ)P}	.	.
 4r	.	.
-=	=	=
+=32	=32	=32
 {8eL	面	min6
 16f	對	deoi3
 [16fJ	這	ze5
@@ -380,7 +379,7 @@
 16eL]	.	.
 8d}	土	tou2
 {16cJ	你	nei5
-=	=	=
+=33	=33	=33
 8cL	註	zyu3
 16A	定	ding6
 [16cJ	學	hok9
@@ -390,7 +389,7 @@
 16eL]	.	.
 8.dJ}	灑	saa2
 4r	.	.
-=	=	=
+=34	=34	=34
 {8gL	階	gaai1
 16g	磚	zyun1
 [16gJ	不	bat7
@@ -403,7 +402,7 @@
 16d#L]	.	.
 8eJ}	蝕	sit9
 16r	.	.
-=	=	=
+=35	=35	=35
 {8aL	窗	coeng1
 16a	花	faa1
 [16aJ	不	bat7
@@ -416,7 +415,7 @@
 16eL]	.	.
 8dJ}	霞	haa4
 16r	.	.
-=	=	=
+=36	=36	=36
 {8dL	有	jau5
 16e	感	gam2
 [16GJ	情	cing4
@@ -431,7 +430,7 @@
 16dL]	.	.
 8c	世	sai3
 [16dJ	嗎	maa1
-=	=	=
+=37	=37	=37
 8d]}	.	.
 8r	.	.
 8r	.	.
@@ -444,7 +443,7 @@
 (16B	用	jung6
 16c)P	.	.
 [16cJ	嗎	maa3
-=	=	=
+=38	=38	=38
 4c]}	.	.
 4r	.	.
 8r	.	.
@@ -452,7 +451,7 @@
 {8c	忘	mong4
 8eL	掉	diu6
 8gJ	愛	oi3
-=	=	=
+=39	=39	=39
 16gL	過	gwo3
 8a	的	dik7
 [16aJ	他	taa1
@@ -467,7 +466,7 @@
 16g	箔	bok8
 16g	印	jan3
 16eJ	着	zoek9
-=	=	=
+=40	=40	=40
 16.gL	那	naa5
 16.a	位	wai2
 [16aJ	他	taa1
@@ -482,7 +481,7 @@
 16e	道	dou6
 16d#	牆	coeng4
 16eJ	及	kap9
-=	=	=
+=41	=41	=41
 8gL	一	jat7
 16f	切	cai3
 [16fJ	美	mei5
@@ -496,7 +495,7 @@
 {16c	明	ming4
 16d	日	jat9
 16cJ	同	tung4
-=	=	=
+=42	=42	=42
 4e	步	bou6
 (8gL	拆	caak8
 8eJ)	.	.
@@ -504,7 +503,7 @@
 {8cJ	忘	mong4
 8eL	掉	diu6
 8gJ	有	jau5
-=	=	=
+=43	=43	=43
 16gL	過	gwo3
 8a	的	dik7
 [16aJ	家	gaa1
@@ -519,7 +518,7 @@
 16a	櫃	gwai6
 16a	及	kap9
 16bJ	兩	loeng5
-=	=	=
+=44	=44	=44
 16.aL	份	fan6
 16.g	紅	hung4
 [16gJ	茶	caa4
@@ -534,7 +533,7 @@
 16g	過	gwo3
 16g	借	ze3
 16aJ	出	ceot7
-=	=	=
+=45	=45	=45
 (16gL	到	dou3
 16f)P	.	.
 16f	期	kei4
@@ -545,7 +544,7 @@
 4cc]}	.	.
 8r	.	.
 {8g	終	zung1
-=	=	=
+=46	=46	=46
 (16gL	須	seoi1
 16f)P	.	.
 16f	會	wui5
@@ -557,14 +556,14 @@
 8r	.	.
 {8bL	別	bit9
 [8ccJ	怕	paa3
-=	=	=
+=47	=47	=47
 2cc]}	.	.
 8r	.	.
 *>coda	*>coda	*>coda
 {8cc	請	cing2
 8gL	放	fong3
 8eJ	下	haa6
-=	=	=
+=48	=48	=48
 8aL	手	sau2
 16g	裏	leoi5
 [16gJ	那	naa5
@@ -577,7 +576,7 @@
 16dP	.	.
 16c)P	.	.
 [16cJ	嗎	maa3
-=	=	=
+=49	=49	=49
 4c]}	.	.
 ==	==	==
 *-	*-	*-

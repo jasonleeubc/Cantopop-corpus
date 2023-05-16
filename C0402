@@ -13,10 +13,9 @@
 *A:	*	*
 *M4/4	*	*
 *MM78	*	*
-=	=	=
 *>verse	*>verse	*>verse
 {8BB	磨	mo4
-=	=	=
+=1	=1	=1
 8C#L	練	lin6
 16G#	飛	fei1
 [16G#J	天	tin1
@@ -27,7 +26,7 @@
 8r	.	.
 8r	.	.
 {8BB	從	cung4
-=	=	=
+=2	=2	=2
 8C#L	沒	mut9
 16G#	丁	ding1
 [16G#J	點	dim2
@@ -38,7 +37,7 @@
 8r	.	.
 8r	.	.
 {8E	因	jan1
-=	=	=
+=3	=3	=3
 4E	可	ho2
 8DL	與	jyu5
 [8DJ	你	nei5
@@ -46,7 +45,7 @@
 8r	.	.
 8r	.	.
 {8C#	天	tin1
-=	=	=
+=4	=4	=4
 8C#L	天	tin1
 8BBJ	的	dik7
 8AAL	去	heoi3
@@ -55,7 +54,7 @@
 8r	.	.
 8r	.	.
 {8BB	嘗	soeng4
-=	=	=
+=5	=5	=5
 8C#L	盡	zeon6
 16G#	失	sat7
 [16G#J	手	sau2
@@ -66,7 +65,7 @@
 8r	.	.
 8r	.	.
 {8E	還	waan4
-=	=	=
+=6	=6	=6
 8G#L	被	bei6
 16c#	貶	bin2
 [16c#J	當	dong1
@@ -78,7 +77,7 @@
 {12AL	只	zi2
 12G#	得	dak7
 12EJ	我	ngo5
-=	=	=
+=7	=7	=7
 4F#}	肯	hang2
 8r	.	.
 {8F#	陪	pui4
@@ -86,7 +85,7 @@
 [16AJ	你	nei5
 8AL]	.	.
 8F#J	學	hok9
-=	=	=
+=8	=8	=8
 [4c#	飛	fei1
 12c#L]	.	.
 12B	不	bat7
@@ -95,7 +94,7 @@
 8r	.	.
 *>prechorus	*>prechorus	*>prechorus
 {8d	韆	cin1
-=	=	=
+=9	=9	=9
 8c#L	鞦	cau2
 8G#J	上	soeng6
 16.c#L	捉	zuk7
@@ -106,7 +105,7 @@
 8r	.	.
 {16EL	真	zan1
 16C#J	實	sat9
-=	=	=
+=10	=10	=10
 8DL	裏	leoi5
 8F#J	從	cung4
 16.F#L	無	mou4
@@ -116,7 +115,7 @@
 8BJ}	飛	fei1
 8r	.	.
 {8d	最	zeoi3
-=	=	=
+=11	=11	=11
 8c#L	後	hau6
 8dJ	總	zung2
 16.c#L	失	sat7
@@ -126,7 +125,7 @@
 8.AJ}	臂	bei3
 8r	.	.
 {8E	爲	wai4
-=	=	=
+=12	=12	=12
 8EL	何	ho4
 16F#	日	jat9
 [16F#J	夜	je6
@@ -137,7 +136,7 @@
 [16AJ	你	nei5
 8AL]}	.	.
 {8F#J	仍	jing4
-=	=	=
+=13	=13	=13
 8F#L	然	jin4
 16G#	像	zoeng6
 [16G#J	逗	dau6
@@ -149,7 +148,7 @@
 8BL]}	.	.
 *>chorus	*>chorus	*>chorus
 {8EJ	從	cung4
-=	=	=
+=14	=14	=14
 8EL	來	loi4
 8eJ	分	fan1
 16.eL	開	hoi1
@@ -160,7 +159,7 @@
 12r	.	.
 {12dL	隔	gaak8
 12c#J	着	zoek9
-=	=	=
+=15	=15	=15
 8dL	你	nei5
 8dJ	我	ngo5
 16.dL	不	bat7
@@ -170,7 +169,7 @@
 8BJ}	米	mai5
 8r	.	.
 {8G#	熟	suk9
-=	=	=
+=16	=16	=16
 8G#L	練	lin6
 8eJ	的	dik7
 16.eL	開	hoi1
@@ -181,7 +180,7 @@
 8r	.	.
 {16AL	我	ngo5
 16F#J	盪	dong6
-=	=	=
+=17	=17	=17
 8dL	向	hoeng3
 8dJ	你	nei5
 16.dL	接	zip8
@@ -190,7 +189,7 @@
 4B}	圍	wai4
 8r	.	.
 {8E	來	loi4
-=	=	=
+=18	=18	=18
 8EL	回	wui4
 8eJ	空	hung1
 16.eL	中	zung1
@@ -201,7 +200,7 @@
 8r	.	.
 {16dL	我	ngo5
 16c#J	輔	fu6
-=	=	=
+=19	=19	=19
 16.c#L	助	zo6
 16.d	你	nei5
 16eJ	擺	baai2
@@ -214,7 +213,7 @@
 8r	.	.
 {16AL	節	zit8
 16F#J	目	muk9
-=	=	=
+=20	=20	=20
 4E}	完	jyun4
 {8BL	燈	dang1
 16G#	漸	zim6
@@ -223,7 +222,7 @@
 8r	.	.
 8r	.	.
 {8E	沒	mut9
-=	=	=
+=21	=21	=21
 8DL	緣	jyun4
 16F#	份	fan6
 [16AJ	卻	koek8
@@ -231,20 +230,20 @@
 8c#J	只	zi2
 4c#	得	dak7
 4G#	默	mak9
-=	=	=
+=22	=22	=22
 2A}	契	kai3
 *>interlude	*>interlude	*>interlude
 2r	.	.
-=	=	=
+=23	=23	=23
 1r	.	.
-=	=	=
+=24	=24	=24
 1r	.	.
-=	=	=
+=25	=25	=25
 2r	.	.
 4r	.	.
 8r	.	.
 {8BB	嘗	soeng4
-=	=	=
+=26	=26	=26
 8C#L	盡	zeon6
 16G#	失	sat7
 [16G#J	手	sau2
@@ -255,7 +254,7 @@
 8r	.	.
 8r	.	.
 {8E	還	waan4
-=	=	=
+=27	=27	=27
 8G#L	被	bei6
 16c#	貶	bin2
 [16c#J	當	dong1
@@ -267,7 +266,7 @@
 {16.AL	只	zi2
 16.G#	得	dak7
 16EJ	我	ngo5
-=	=	=
+=28	=28	=28
 4F#}	肯	hang2
 8r	.	.
 {8F#	陪	pui4
@@ -275,7 +274,7 @@
 [16AJ	你	nei5
 8AL]	.	.
 8F#J	學	hok9
-=	=	=
+=29	=29	=29
 [4c#	飛	fei1
 12c#L]	.	.
 12B	不	bat7
@@ -284,7 +283,7 @@
 8r	.	.
 *>prechorus	*>prechorus	*>prechorus
 {8d	韆	cin1
-=	=	=
+=30	=30	=30
 8c#L	鞦	cau2
 8G#J	上	soeng6
 16.c#L	捉	zuk7
@@ -295,7 +294,7 @@
 8r	.	.
 {16EL	真	zan1
 16C#J	實	sat9
-=	=	=
+=31	=31	=31
 8.DL	裏	leoi5
 16F#J	從	cung4
 16.F#L	無	mou4
@@ -305,7 +304,7 @@
 8BJ}	飛	fei1
 8r	.	.
 {8d	最	zeoi3
-=	=	=
+=32	=32	=32
 8c#L	後	hau6
 8dJ	總	zung2
 16.c#L	失	sat7
@@ -315,7 +314,7 @@
 8.AJ}	臂	bei3
 8r	.	.
 {8E	爲	wai4
-=	=	=
+=33	=33	=33
 8EL	何	ho4
 16F#	日	jat9
 [16F#J	夜	je6
@@ -326,7 +325,7 @@
 [16AJ	你	nei5
 8AL]}	.	.
 {8F#J	仍	jing4
-=	=	=
+=34	=34	=34
 8F#L	然	jin4
 16G#	像	zoeng6
 [16G#J	逗	dau6
@@ -338,7 +337,7 @@
 8BL]}	.	.
 *>chorus	*>chorus	*>chorus
 {8EJ	從	cung4
-=	=	=
+=35	=35	=35
 8EL	來	loi4
 8eJ	分	fan1
 16.eL	開	hoi1
@@ -349,7 +348,7 @@
 8r	.	.
 {16dL	隔	gaak8
 16c#J	着	zoek9
-=	=	=
+=36	=36	=36
 8dL	你	nei5
 8dJ	我	ngo5
 16.dL	不	bat7
@@ -359,7 +358,7 @@
 8BJ}	米	mai5
 8r	.	.
 {8G#	熟	suk9
-=	=	=
+=37	=37	=37
 8G#L	練	lin6
 8eJ	的	dik7
 16.eL	開	hoi1
@@ -370,7 +369,7 @@
 8r	.	.
 {16AL	我	ngo5
 16F#J	盪	dong6
-=	=	=
+=38	=38	=38
 8dL	向	hoeng3
 8dJ	你	nei5
 16.dL	接	zip8
@@ -379,7 +378,7 @@
 4B}	圍	wai4
 8r	.	.
 {8E	來	loi4
-=	=	=
+=39	=39	=39
 8EL	回	wui4
 8eJ	空	hung1
 16.eL	中	zung1
@@ -390,7 +389,7 @@
 8r	.	.
 {16dL	我	ngo5
 16c#J	輔	fu6
-=	=	=
+=40	=40	=40
 16.c#L	助	zo6
 16.d	你	nei5
 16eJ	擺	baai2
@@ -403,7 +402,7 @@
 8r	.	.
 {16AL	節	zit8
 16F#J	目	muk9
-=	=	=
+=41	=41	=41
 4E}	完	jyun4
 {8BL	燈	dang1
 16G#	漸	zim6
@@ -412,7 +411,7 @@
 8r	.	.
 8r	.	.
 {8E	沒	mut9
-=	=	=
+=42	=42	=42
 16.DL	緣	jyun4
 16.F#	份	fan6
 [16AJ	卻	koek8
@@ -423,7 +422,7 @@
 8r	.	.
 *>chorus	*>chorus	*>chorus
 {8E	從	cung4
-=	=	=
+=43	=43	=43
 8EL	來	loi4
 8eJ	不	bat7
 16.eL	可	ho2
@@ -435,7 +434,7 @@
 {16eL	只	zi2
 16d	接	zip8
 16c#J	近	gan6
-=	=	=
+=44	=44	=44
 8dL	半	bun3
 8dJ	秒	miu5
 16.dL	便	bin6
@@ -446,7 +445,7 @@
 8eJ}	切	cai3
 8r	.	.
 {8G#	願	jyun6
-=	=	=
+=45	=45	=45
 8G#L	付	fu6
 8eJ	出	ceot7
 8eL	一	jat7
@@ -457,7 +456,7 @@
 8r	.	.
 {16F#L	用	jung6
 16F#J	來	loi4
-=	=	=
+=46	=46	=46
 8dL	襯	can3
 8dJ	托	tok8
 16.dL	你	nei5
@@ -467,7 +466,7 @@
 8.BJ}	麗	lai6
 8r	.	.
 {8E	來	loi4
-=	=	=
+=47	=47	=47
 8EL	回	wui4
 8eJ	空	hung1
 16.eL	中	zung1
@@ -478,7 +477,7 @@
 8r	.	.
 {16dL	我	ngo5
 16c#J	輔	fu6
-=	=	=
+=48	=48	=48
 16.c#L	助	zo6
 16.d	你	nei5
 16eJ	空	hung1
@@ -491,7 +490,7 @@
 8fL]}	.	.
 {16e	心	sam1
 16dJ	血	hyut8
-=	=	=
+=49	=49	=49
 16.c#L	沒	mut9
 16.d	有	jau5
 16eJ	一	jat7
@@ -502,7 +501,7 @@
 8.AJ}	費	fai3
 8r	.	.
 {8F#	換	wun6
-=	=	=
+=50	=50	=50
 16.DL	來	loi4
 16.F#	是	si6
 [16AJ	你	nei5
@@ -512,7 +511,7 @@
 16d	那	naa5
 [16eJ	刻	hak7
 4e]	.	.
-=	=	=
+=51	=51	=51
 8.BL	光	gwong1
 (16BJ	輝	fai1
 4A)}P	.	.
@@ -521,7 +520,7 @@
 {16.eL	只	zi2
 16.d	怕	paa3
 16c#J	在	zoi6
-=	=	=
+=52	=52	=52
 8dL	某	mau5
 8eJ	天	tin1
 16.BL	會	wui5
@@ -532,7 +531,7 @@
 8r	.	.
 {16c#L	刻	hak7
 16AJ	意	ji3
-=	=	=
+=53	=53	=53
 8F#L	逃	tou4
 8G#J	避	bei6
 8r	.	.
@@ -543,7 +542,7 @@
 [16eJ	這	ze2
 8.eL];	.	.
 16BJ;	傷	soeng1
-=	=	=
+=54	=54	=54
 2A}	勢	sai3
 2r	.	.
 ==	==	==
