@@ -20,7 +20,7 @@
 8d-L	可	ho2
 8d-J	否	fau2
 =1	=1	=1
-4d-	不	bat7
+4d-	不	bat1
 8G-L	要	jiu3
 [8G-J	老	lou5
 4G-]}	.	.
@@ -40,7 +40,7 @@
 8d-L	可	ho2
 8d-J	否	fau2
 =5	=5	=5
-4d-	不	bat7
+4d-	不	bat1
 8G-L	要	jiu3
 [8G-J	老	lou5
 4G-]}	.	.
@@ -63,7 +63,7 @@
 4r	.	.
 =10	=10	=10
 2r	.	.
-{8e-L	即	zik7
+{8e-L	即	zik1
 8e-J	使	si2
 8e-L	早	zou2
 8e-J}	知	zi1
@@ -76,7 +76,7 @@
 4B-}	道	dou6
 =12	=12	=12
 2r	.	.
-{4A-	卻	koek8
+{4A-	卻	koek3
 4B-	想	soeng2
 =13	=13	=13
 4E-	完	jyun4
@@ -104,7 +104,7 @@
 8FL	部	bou6
 [8G-J	也	jaa5
 4G-]	.	.
-4d-	不	bat7
+4d-	不	bat1
 =18	=18	=18
 4d-}	倒	dou2
 4r	.	.
@@ -127,7 +127,7 @@
 8FL	在	zoi6
 [8G-J	意	ji3
 8G-]	.	.
-4d-}	的	dik7
+4d-}	的	dik1
 8r	.	.
 =22	=22	=22
 {4F	任	jam6
@@ -141,7 +141,7 @@
 4r	.	.
 =24	=24	=24
 2r	.	.
-{4.e-	不	bat7
+{4.e-	不	bat1
 8d-	會	wui5
 =25	=25	=25
 1d-}	老	lou5
@@ -165,7 +165,7 @@
 4d-}	裏	leoi5
 8r	.	.
 =29	=29	=29
-{4f	突	dat9
+{4f	突	dat6
 8e-L	然	jan4
 [8fJ	便	bin6
 8f]	.	.
@@ -177,7 +177,7 @@
 {4e-	談	taam4
 4b-}	好	hou2
 =31	=31	=31
-{4a-	一	jat7
+{4a-	一	jat1
 8g-L	個	go3
 [8e-J	事	si6
 8e-]	.	.
@@ -217,7 +217,7 @@
 4d-}	歲	seoi3
 8r	.	.
 =37	=37	=37
-{4f	別	bit9
+{4f	別	bit6
 8e-L	隨	ceoi4
 [8fJ	便	bin6
 8f]	.	.
@@ -237,10 +237,10 @@
 {[8e-	偏	pin1
 =40	=40	=40
 8e-]	.	.
-4d-	卻	koek8
-[8B-	決	kyut8
+4d-	卻	koek3
+[8B-	決	kyut3
 8B-L]	.	.
-8A-J	絕	zyut9
+8A-J	絕	zyut6
 8G-L	如	jyu4
 [8d-J	許	heoi2
 =41	=41	=41
@@ -253,7 +253,7 @@
 4.d-}	些	se1
 8r	.	.
 {4A-	也	jaa5
-[8B-	不	bat7
+[8B-	不	bat1
 =43	=43	=43
 8B-]	.	.
 (4A-	許	heoi2
@@ -282,7 +282,7 @@
 8d-L	可	ho2
 8d-J	否	fau2
 =51	=51	=51
-4d-	不	bat7
+4d-	不	bat1
 8G-L	要	jiu3
 [8G-J	老	lou5
 2G-]}	.	.
@@ -301,7 +301,7 @@
 8d-L	可	ho2
 8d-J	否	fau2
 =55	=55	=55
-4d-	不	bat7
+4d-	不	bat1
 8G-L	要	jiu3
 ([8G-J	老	lou5
 4.G-]	.	.
@@ -328,8 +328,8 @@
 2r	.	.
 {8e-L	恍	fong2
 8e-J	恍	fong2
-8e-L	惚	fat7
-8e-J}	惚	fat7
+8e-L	惚	fat1
+8e-J}	惚	fat1
 =61	=61	=61
 {8e-	走	zau2
 4.d-	到	dou3
@@ -366,7 +366,7 @@
 8E-J)P	.	.
 =67	=67	=67
 4E-	年	nin4
-8FL	月	jyut9
+8FL	月	jyut6
 [8G-J	有	jau5
 8G-]	.	.
 4d-	多	do1
@@ -381,7 +381,7 @@
 8E-L	後	hau6
 [8G-J	碰	pung3
 8G-]	.	.
-4c-	不	bat7
+4c-	不	bat1
 [8B-	到	dou2
 =70	=70	=70
 4B-]}	.	.
@@ -390,10 +390,10 @@
 4B-}	些	se1
 =71	=71	=71
 {4G-	已	ji5
-8FL	白	baak9
-[8G-J	髮	faat8
+8FL	白	baak6
+[8G-J	髮	faat3
 8G-]	.	.
-4d-}	的	dik7
+4d-}	的	dik1
 8r	.	.
 =72	=72	=72
 {4F	就	zau6
@@ -412,7 +412,7 @@
 =74	=74	=74
 4B-])}	.	.
 4r	.	.
-{4.e-	的	dik7
+{4.e-	的	dik1
 8d-	控	hung3
 =75	=75	=75
 (2.d-	訴	sou3
@@ -439,7 +439,7 @@
 4d-}	裏	leoi5
 8r	.	.
 =79	=79	=79
-{4f	突	dat9
+{4f	突	dat6
 8e-L	然	jan4
 [8fJ	便	bin6
 8f]	.	.
@@ -451,7 +451,7 @@
 {4e-	談	taam4
 4b-}	好	hou2
 =81	=81	=81
-{4a-	一	jat7
+{4a-	一	jat1
 8g-L	個	go3
 [8e-J	事	si6
 8e-]	.	.
@@ -491,7 +491,7 @@
 4d-}	歲	seoi3
 8r	.	.
 =87	=87	=87
-{4f	別	bit9
+{4f	別	bit6
 8e-L	隨	ceoi4
 [8fJ	便	bin6
 8f]	.	.
@@ -511,10 +511,10 @@
 {[8e-	偏	pin1
 =90	=90	=90
 8e-]	.	.
-4d-	卻	koek8
+4d-	卻	koek3
 [8B-	冷	laang5
 8B-L]	.	.
-8A-J	酷	huk9
+8A-J	酷	huk6
 8G-L	如	jyu4
 (8e-J	許	heoi2
 =91	=91	=91
@@ -526,7 +526,7 @@
 8B-	慢	maan6
 4.d-}	些	se1
 {4A-	也	jaa5
-8B-L	不	bat7
+8B-L	不	bat1
 (8A-J	許	heoi2
 =93	=93	=93
 2G-P)}	.	.
@@ -555,7 +555,7 @@
 4d-}	裏	leoi5
 8r	.	.
 =97	=97	=97
-{4f	突	dat9
+{4f	突	dat6
 8e-L	然	jan4
 [8fJ	便	bin6
 8f]	.	.
@@ -567,7 +567,7 @@
 {4e-	談	taam4
 4b-}	好	hou2
 =99	=99	=99
-{4a-	一	jat7
+{4a-	一	jat1
 8g-L	個	go3
 [8e-J	事	si6
 8e-]	.	.
@@ -607,7 +607,7 @@
 4d-}	歲	seoi3
 8r	.	.
 =105	=105	=105
-{4.f	別	bit9
+{4.f	別	bit6
 8e-	隨	ceoi4
 8f	便	bin6
 4g-	老	lou5
@@ -625,9 +625,9 @@
 4.d-}	人	jan4
 =108	=108	=108
 {4e-	偏	pin1
-4d-	卻	koek8
+4d-	卻	koek3
 8.B-L	冷	laang5
-[16A-J	酷	huk9
+[16A-J	酷	huk6
 8A-L]	.	.
 8G-J	如	jyu4
 =109	=109	=109
@@ -639,7 +639,7 @@
 8B-	慢	maan6
 4.d-}	些	se1
 {8A-L	也	jaa5
-8B-J	不	bat7
+8B-J	不	bat1
 (8A-L	許	heoi2
 [8G-J	.	.
 =111	=111	=111

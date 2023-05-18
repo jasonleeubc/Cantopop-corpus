@@ -31,7 +31,7 @@
 8gL	鏘	coeng1
 [8gJ	演	jin2
 8g]	.	.
-4d	說	syut8
+4d	說	syut3
 [8e	中	zung1
 =4	=4	=4
 8eL]	.	.
@@ -62,7 +62,7 @@
 8gL	終	zung1
 [8gJ	可	ho2
 8g]	.	.
-(4c	拍	paak8
+(4c	拍	paak3
 8d)P	.	.
 =10	=10	=10
 2d}	掌	zoeng2
@@ -100,12 +100,12 @@
 {4d	對	deoi3
 4d	抗	kong3
 =17	=17	=17
-4d	壓	aat8
-2e	迫	bik7
+4d	壓	aat3
+2e	迫	bik1
 [4d	那	naa5
 =18	=18	=18
 4d]	.	.
-(4e-	一	jat7
+(4e-	一	jat1
 4d)P	.	.
 ([4c	仗	zoeng3
 =19	=19	=19
@@ -117,7 +117,7 @@
 4d	你	nei5
 =21	=21	=21
 4d	迎	jing4
-2e	着	zoek9
+2e	着	zoek6
 ([4f	上	soeng5
 =22	=22	=22
 2.f]	.	.
@@ -148,7 +148,7 @@
 8aJ	周	zau1
 =29	=29	=29
 4b-	充	cung1
-8aL	斥	cik7
+8aL	斥	cik1
 [8gJ	苦	fu2
 8gL]	.	.
 8fJ	痛	tung3
@@ -160,7 +160,7 @@
 =31	=31	=31
 {4cc	希	hei1
 8gL	望	mong6
-[8aJ	亦	jik9
+[8aJ	亦	jik6
 8aL]	.	.
 8gJ	來	loi4
 [4b-	到	dou3
@@ -171,7 +171,7 @@
 8aJ	挺	ting5
 =33	=33	=33
 4b-	身	san1
-8aL	擊	gik7
+8aL	擊	gik1
 [8gJ	倒	dou2
 8gL]	.	.
 8fJ	了	liu5
@@ -195,8 +195,8 @@
 {8gL	最	zeoi3
 8aJ	差	caa1
 =37	=37	=37
-4b-	一	jat7
-8aL	刻	hak7
+4b-	一	jat1
+8aL	刻	hak1
 [8gJ	等	dang2
 8gL]	.	.
 [8fJ	我	ngo5
@@ -207,8 +207,8 @@
 4r	.	.
 {4c	岩	ngaam4
 =39	=39	=39
-4.g	隙	kwik7
-[8e	窄	zaak8
+4.g	隙	kwik1
+[8e	窄	zaak3
 4e]	.	.
 [4d	路	lou3
 =40	=40	=40
@@ -220,7 +220,7 @@
 4B-	處	cyu3
 4c	能	nang4
 4f	見	gin3
-[4e	樂	lok9
+[4e	樂	lok6
 =42	=42	=42
 4e]	.	.
 [2.g	土	tou2
@@ -246,7 +246,7 @@
 {4c	燃	jin4
 =51	=51	=51
 4g	燒	siu1
-8gL	一	jat7
+8gL	一	jat1
 [8gJ	生	sang1
 8g]	.	.
 (4c	能	nang4
@@ -262,7 +262,7 @@
 [8gJ	公	gung1
 8g]	.	.
 4d	義	ji6
-[8e	的	dik7
+[8e	的	dik1
 =54	=54	=54
 8eL]	.	.
 8dJ	酵	haau1
@@ -280,7 +280,7 @@
 8dJ	世	sai3
 =57	=57	=57
 8e-L	間	gaan1
-8dJ	的	dik7
+8dJ	的	dik1
 (2.d	好	hou2
 =58	=58	=58
 2c)P}	.	.
@@ -298,7 +298,7 @@
 4r	.	.
 {4d	難	naan4
 =61	=61	=61
-4e	敵	dik9
+4e	敵	dik6
 4f	過	gwo3
 4g	陡	dau2
 4f	峭	ciu3
@@ -329,12 +329,12 @@
 {4d	哪	naa5
 4d	會	wui5
 =67	=67	=67
-4d	怯	hip8
+4d	怯	hip3
 2e	於	jyu1
 [4d	那	naa5
 =68	=68	=68
 4d]	.	.
-(4e-	一	jat7
+(4e-	一	jat1
 4d)P	.	.
 (4d	槍	coeng1
 =69	=69	=69
@@ -346,7 +346,7 @@
 4d	魂	wan4
 =71	=71	=71
 4d	迎	jing4
-2e	着	zoek9
+2e	着	zoek6
 ([4f	上	soeng2
 =72	=72	=72
 2.f]	.	.
@@ -377,7 +377,7 @@
 8aJ	周	zau1
 =79	=79	=79
 4b-	充	cung1
-8aL	斥	cik7
+8aL	斥	cik1
 [8gJ	苦	fu2
 8gL]	.	.
 8fJ	痛	tung3
@@ -389,7 +389,7 @@
 =81	=81	=81
 {4cc	希	hei1
 8gL	望	mong6
-[8aJ	亦	jik9
+[8aJ	亦	jik6
 8aL]	.	.
 8gJ	來	loi4
 [4b-	到	dou3
@@ -400,7 +400,7 @@
 8aJ	挺	ting5
 =83	=83	=83
 4b-	身	san1
-8aL	擊	gik7
+8aL	擊	gik1
 [8gJ	倒	dou2
 8gL]	.	.
 8fJ	了	liu5
@@ -426,8 +426,8 @@
 {8gL	最	zeoi3
 8aJ	差	caa1
 =87	=87	=87
-4b-	一	jat7
-8aL	刻	hak7
+4b-	一	jat1
+8aL	刻	hak1
 [8gJ	等	dang2
 8gL]	.	.
 [8fJ	我	ngo5
@@ -438,8 +438,8 @@
 4r	.	.
 {4c	岩	ngaam4
 =89	=89	=89
-4.g	隙	kwik7
-[8e	窄	zaak8
+4.g	隙	kwik1
+[8e	窄	zaak3
 4e]	.	.
 [4d	路	lou3
 =90	=90	=90
@@ -450,7 +450,7 @@
 4B-	處	cyu3
 4c	能	nang4
 4f	見	gin3
-[4e	樂	lok9
+[4e	樂	lok6
 =92	=92	=92
 4e]	.	.
 [2.g	土	tou2
@@ -460,11 +460,11 @@
 2r	.	.
 4r	.	.
 *>bridge	*>bridge	*>bridge
-{4e	越	jyut9
+{4e	越	jyut6
 =95	=95	=95
 4e	是	si6
-2g	迫	bik7
-([4f	壓	aat8
+2g	迫	bik1
+([4f	壓	aat3
 =96	=96	=96
 8fL]	.	.
 8eJP	.	.
@@ -516,7 +516,7 @@
 8aJ	太	taai3
 =107	=107	=107
 4b-	糟	zou1
-8aL	不	bat7
+8aL	不	bat1
 [8gJ	可	ho2
 8gL]	.	.
 8fJ	更	gang3
@@ -527,7 +527,7 @@
 4r	.	.
 =109	=109	=109
 {4cc	這	ze2
-8ccL	刻	hak7
+8ccL	刻	hak1
 [8ccJ	經	ging1
 8ccL]	.	.
 8b-J	已	ji5
@@ -537,7 +537,7 @@
 4r	.	.
 4r	.	.
 {8b-L	在	zoi6
-8ccJ	各	gok8
+8ccJ	各	gok3
 =111	=111	=111
 4dd	種	zung2
 8ddL	崗	gong1
@@ -565,9 +565,9 @@
 {8gL	最	zeoi3
 8aJ	好	hou2
 =115	=115	=115
-4b-	的	dik7
-8aL	一	jat7
-[8gJ	刻	hak7
+4b-	的	dik1
+8aL	一	jat1
+[8gJ	刻	hak1
 8gL]	.	.
 [8fJ	裏	leoi5
 4f]	.	.
@@ -603,7 +603,7 @@
 4f	遠	jyun5
 4f	處	cyu3
 4f	有	jau5
-[4e	樂	lok9
+[4e	樂	lok6
 =124	=124	=124
 4e]	.	.
 [2.g	土	tou2
@@ -615,7 +615,7 @@
 {4c	信	seon3
 =127	=127	=127
 4f	心	sam1
-4f	一	jat7
+4f	一	jat1
 4f	起	hei2
 [4e	擁	jung2
 =128	=128	=128
