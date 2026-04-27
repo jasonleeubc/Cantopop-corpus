@@ -17,7 +17,7 @@
 *>strophe	*>strophe	*>strophe
 {8dL	白	baak6
 8dJ	日	jat6
-8dL	夢	mung9
+8dL	夢	mung6
 8dJ	內	noi6
 8dL	白	baak6
 8fJ	風	fung1
@@ -51,7 +51,7 @@
 16gJZ	.	.
 8.fLZ	.	.
 16e-JZ	.	.
-4d)}Z	.	.
+4d)}ZP	.	.
 =6	=6	=6
 {8fL	採	coi2
 8fJ	菊	guk1
@@ -66,7 +66,7 @@
 16ccJZ	.	.
 8.b-LZ	.	.
 16gJZ	.	.
-4f)}Z	.	.
+4f)}ZP	.	.
 =8	=8	=8
 {8b-L	以	ji5
 8b-J	退	teoi3
@@ -118,7 +118,7 @@
 16e-Z	.	.
 16dZ	.	.
 16e-JZ	.	.
-4d)}Z	.	.
+4d)}ZP	.	.
 =14	=14	=14
 {8fL	將	zoeng1
 8fJ	陰	jam1
@@ -139,7 +139,7 @@
 16gZ	.	.
 16fZ	.	.
 16gJZ	.	.
-4f)}Z	.	.
+4f)}ZP	.	.
 =16	=16	=16
 {8b-L	向	hoeng3
 8b-J	透	tau3
@@ -190,7 +190,7 @@
 16gJZ	.	.
 8.fLZ	.	.
 16e-JZ	.	.
-4d)}Z	.	.
+4d)}ZP	.	.
 =24	=24	=24
 {8fL	給	kap1
 8fJ	心	sam1
@@ -205,7 +205,7 @@
 16ccJZ	.	.
 8.b-LZ	.	.
 16gJZ	.	.
-4f)}Z	.	.
+4f)}ZP	.	.
 =26	=26	=26
 {8b-L	向	hoeng3
 8b-J	透	tau3
@@ -257,7 +257,7 @@
 16e-Z	.	.
 16dZ	.	.
 16e-JZ	.	.
-4d)}Z	.	.
+4d)}ZP	.	.
 =32	=32	=32
 {8fL	給	kap1
 8fJ	光	gwong1
@@ -278,7 +278,7 @@
 16gZ	.	.
 16fZ	.	.
 16gJZ	.	.
-4f)}Z	.	.
+4f)}ZP	.	.
 =34	=34	=34
 {8b-L	向	hoeng3
 8b-J	透	tau3
@@ -349,7 +349,7 @@
 16gJZ	.	.
 8.fLZ	.	.
 16e-JZ	.	.
-4d)}Z	.	.
+4d)}ZP	.	.
 =52	=52	=52
 {8fL	將	zoeng1
 8fJ	天	tin1
@@ -364,7 +364,7 @@
 16ccJZ	.	.
 8.b-LZ	.	.
 16gJZ	.	.
-4f)}Z	.	.
+4f)}ZP	.	.
 =54	=54	=54
 {8b-L	世	sai3
 8b-J	界	gaai3
@@ -416,7 +416,7 @@
 16e-Z	.	.
 16dZ	.	.
 16e-JZ	.	.
-4d)}Z	.	.
+4d)}ZP	.	.
 =60	=60	=60
 {8fL	將	zoeng1
 8fJ	心	sam1
@@ -437,7 +437,7 @@
 16gZ	.	.
 16fZ	.	.
 16gJZ	.	.
-4f)}Z	.	.
+4f)}ZP	.	.
 =62	=62	=62
 {8b-L	世	sai3
 8b-J	界	gaai3
